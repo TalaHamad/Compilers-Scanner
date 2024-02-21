@@ -1,0 +1,9 @@
+# ninja log v5
+769	977	7129384465771891	complier.exe	8ea8ee60754dd13e
+13	489	7125747914291301	CMakeFiles/complier.dir/FileDescriptor.cpp.obj	178108f7091c169f
+4	638	7125748590240873	CMakeFiles/complier.dir/main.cpp.obj	e4ee0a830a189f91
+13	769	7129384463749067	CMakeFiles/complier.dir/Scanner.cpp.obj	b5f24a1118d52ecd
+11	543	7129402319507384	CMakeFiles/complier.dir/FileDescriptor.cpp.obj	5c1cc91b83e7bfc4
+20	601	7129402320090283	CMakeFiles/complier.dir/Scanner.cpp.obj	ee65b46b54de8ff0
+5	667	7129402320744844	CMakeFiles/complier.dir/main.cpp.obj	faa38ed2b7e19d83
+668	820	7129402322235901	complier.exe	8ea8ee60754dd13e

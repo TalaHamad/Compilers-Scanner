@@ -1,0 +1,3 @@
+C:/Users/AB/CLionProjects/Scanner/cmake-build-debug/CMakeFiles/complier.dir
+C:/Users/AB/CLionProjects/Scanner/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/AB/CLionProjects/Scanner/cmake-build-debug/CMakeFiles/rebuild_cache.dir
